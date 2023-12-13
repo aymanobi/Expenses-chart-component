@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/aymanobi/Expenses-chart-component](https://github.com/aymanobi/Expenses-chart-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://expenses-chart-component-kappa-nine.vercel.app/](https://expenses-chart-component-kappa-nine.vercel.app/)
 
 ## My process
 
